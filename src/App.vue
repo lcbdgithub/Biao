@@ -1,6 +1,7 @@
 <template>
   <div id="app">
-    <router-view />
+    <!-- <router-view /> -->
+    <div>吕传彪的静态网站</div>
   </div>
 </template>
 
