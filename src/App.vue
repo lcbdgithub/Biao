@@ -1,7 +1,7 @@
 <template>
   <div>
     <!-- <router-view /> -->
-    <div>吕传彪的静态网站</div>
+    <div>阿彪LOVE如如</div>
   </div>
 </template>
 
